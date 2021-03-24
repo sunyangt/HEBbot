@@ -20,4 +20,4 @@ distance = 50 ## 最远可接受的HEB距离，单位mile，一般在城里 40mi
 types = ["moderna", "pfizer"] ## 可以接受的疫苗品种\
 \
 遇到问题\
-WeChat：sliverlightsyt\
+WeChat：sliverlightsyt
